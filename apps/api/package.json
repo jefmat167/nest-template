@@ -68,7 +68,7 @@
     "@nestjs/throttler": "^6.4.0",
     "@react-email/preview-server": "^5.0.1",
     "@scalar/nestjs-api-reference": "^1.0.7",
-    "@swc/cli": "^0.7.9",
+    "@swc/cli": "^0.8.2",
     "@swc/core": "^1.15.1",
     "@types/cookie-parser": "^1.4.10",
     "@types/express": "^5.0.5",
