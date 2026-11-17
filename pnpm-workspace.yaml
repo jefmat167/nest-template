@@ -1,0 +1,4 @@
+packages:
+  - 'apps/*'
+  - 'packages/*'
+  - '!packages/s3rver'
